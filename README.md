@@ -1,5 +1,3 @@
-**Starter Platformer**
+Created by Jiya Sawarkar and Tarun Nagaraju. 
 
-A Phaser 3 code framework for creating a bare-bones 2D platformer game.
-
-Visual assets provided by Kenny Assets [Pixel Platformer](https://kenney.nl/assets/pixel-platformer) asset pack, with gratitude. 
+You start off as our very out of place MC, who is trapped in this video game world and has to fight her way back to reality through multiple types of games.
